@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-22T09:01:08 IST" name="Master Suite" finished-at="2025-07-22T09:01:37 IST" duration-ms="29084">
+  <suite started-at="2025-07-22T20:56:11 IST" name="Master Suite" finished-at="2025-07-22T20:56:49 IST" duration-ms="38778">
     <groups>
       <group name="Master">
-        <method signature="TC_003LoginDataDriven.Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@3f67593e]" name="Verifylogin_DataDriven" class="testCases.TC_003LoginDataDriven"/>
+        <method signature="TC_003LoginDataDriven.Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@1ab06251]" name="Verifylogin_DataDriven" class="testCases.TC_003LoginDataDriven"/>
       </group> <!-- Master -->
       <group name="DataDriven">
-        <method signature="TC_003LoginDataDriven.Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@3f67593e]" name="Verifylogin_DataDriven" class="testCases.TC_003LoginDataDriven"/>
+        <method signature="TC_003LoginDataDriven.Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@1ab06251]" name="Verifylogin_DataDriven" class="testCases.TC_003LoginDataDriven"/>
       </group> <!-- DataDriven -->
     </groups>
-    <test started-at="2025-07-22T09:01:08 IST" name="Test" finished-at="2025-07-22T09:01:37 IST" duration-ms="29084">
+    <test started-at="2025-07-22T20:56:11 IST" name="Test" finished-at="2025-07-22T20:56:49 IST" duration-ms="38778">
       <class name="testCases.TC_003LoginDataDriven">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@3f67593e]" started-at="2025-07-22T09:01:08 IST" name="setup" finished-at="2025-07-22T09:01:12 IST" duration-ms="3283" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@1ab06251]" started-at="2025-07-22T20:56:11 IST" name="setup" finished-at="2025-07-22T20:56:17 IST" duration-ms="6423" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,7 +29,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@3f67593e]" started-at="2025-07-22T09:01:13 IST" name="Verifylogin_DataDriven" data-provider="Logindata" finished-at="2025-07-22T09:01:14 IST" duration-ms="1725" status="PASS">
+        <test-method signature="Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@1ab06251]" started-at="2025-07-22T20:56:18 IST" name="Verifylogin_DataDriven" data-provider="Logindata" finished-at="2025-07-22T20:56:21 IST" duration-ms="3324" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verifylogin_DataDriven -->
-        <test-method signature="Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@3f67593e]" started-at="2025-07-22T09:01:14 IST" name="Verifylogin_DataDriven" data-provider="Logindata" finished-at="2025-07-22T09:01:16 IST" duration-ms="1512" status="PASS">
+        <test-method signature="Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@1ab06251]" started-at="2025-07-22T20:56:22 IST" name="Verifylogin_DataDriven" data-provider="Logindata" finished-at="2025-07-22T20:56:25 IST" duration-ms="3141" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -71,7 +71,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verifylogin_DataDriven -->
-        <test-method signature="Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@3f67593e]" started-at="2025-07-22T09:01:16 IST" name="Verifylogin_DataDriven" data-provider="Logindata" finished-at="2025-07-22T09:01:26 IST" duration-ms="10556" status="PASS">
+        <test-method signature="Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@1ab06251]" started-at="2025-07-22T20:56:25 IST" name="Verifylogin_DataDriven" data-provider="Logindata" finished-at="2025-07-22T20:56:36 IST" duration-ms="11720" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -92,7 +92,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verifylogin_DataDriven -->
-        <test-method signature="Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@3f67593e]" started-at="2025-07-22T09:01:26 IST" name="Verifylogin_DataDriven" data-provider="Logindata" finished-at="2025-07-22T09:01:37 IST" duration-ms="10677" status="PASS">
+        <test-method signature="Verifylogin_DataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003LoginDataDriven@1ab06251]" started-at="2025-07-22T20:56:36 IST" name="Verifylogin_DataDriven" data-provider="Logindata" finished-at="2025-07-22T20:56:49 IST" duration-ms="12724" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -113,7 +113,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verifylogin_DataDriven -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_003LoginDataDriven@3f67593e]" started-at="2025-07-22T09:01:37 IST" name="teardown" finished-at="2025-07-22T09:01:37 IST" duration-ms="297" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_003LoginDataDriven@1ab06251]" started-at="2025-07-22T20:56:49 IST" name="teardown" finished-at="2025-07-22T20:56:49 IST" duration-ms="285" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

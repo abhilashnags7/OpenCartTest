@@ -14,3 +14,10 @@ This is a sample file
 
 
 https://github.com/abhilashnags7/OpenCartTest.git
+
+
+662c0f3c95ff4369b89370cb9d9084e7
+
+This may also be found at: C:\Users\Abhilash.Surapaneni\.jenkins\secrets\initialAdminPassword
+
+http://localhost:8080/
